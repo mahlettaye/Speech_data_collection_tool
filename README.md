@@ -5,7 +5,7 @@ This project aims to develop an open-source speech data collection tool that can
 ## Arcitecture
 
 We have implemented this arcitecture
-![alt text](https://github.com/mahlettaye/Speech_data_collection_tool/arcitecture.png)
+![alt text](https://github.com/mahlettaye/Speech_data_collection_tool/Arcitecture.png)
 
 ## Steps to Build ETL Pipline
 
