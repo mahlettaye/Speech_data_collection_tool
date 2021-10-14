@@ -5,13 +5,14 @@ This project aims to develop an open-source speech data collection tool that can
 ## Arcitecture
 
 We have implemented this arcitecture
+![alt text](https://github.com/mahlettaye/Speech_data_collection_tool/arcitecture.png)
 
 ## Steps to Build ETL Pipline
 
 - Build a simple web app that will help us to collect speech for specific text sent by Kafka producer.
 - Setup  delta lake on s3 bucket
 - Setup Kafka producer and consumer using Kafka-python
-- Setup Airflow for scheduleing
+- Setup Airflow for scheduling
 - Setup spark
 
 ### How to use and contribute
