@@ -25,7 +25,7 @@ We have implemented this arcitecture
 Assuming that you are working in Project directory
 
 `cd ~/Project`
-`git clone https://github.com/Abuton/Speech-to-text-data-collection.git`
+`git clone https://github.com/mahlettaye/Speech_data_collection_tool.git`
 `git checkout main`
 
 #### To contribute to the the repo
